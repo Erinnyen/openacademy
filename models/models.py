@@ -24,3 +24,4 @@ class Student(models.Model):
     _name = 'openacademy.student'
 
     name = fields.Char(required=True)
+    #das ist ein Kommentar
